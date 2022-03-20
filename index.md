@@ -10,6 +10,9 @@
 
 **Below is a meme picture I made using the R package {magick}.**
 
+![](meme.R.R.png)
+
+
 
 One of the inspirations for my meme is very simple:
 
